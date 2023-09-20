@@ -1,0 +1,4 @@
+Mittelwert aus Zeile 1 = 3.67 
+Mittelwert aus Zeile 2 = 4 
+Mittelwert aus Zeile 3 = 5 
+Mittelwert aus Zeile 4 = 5.33 
